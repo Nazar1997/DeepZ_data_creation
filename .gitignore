@@ -1,2 +1,4 @@
+data/ChipSeq/*
+data/hg19_dna/*
 */.ipynb_checkpoints
 *.DS_Store
