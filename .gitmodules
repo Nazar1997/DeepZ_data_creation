@@ -1,0 +1,3 @@
+[submodule "notebooks/sparse_vector"]
+	path = notebooks/sparse_vector
+	url = https://github.com/Nazar1997/Sparse_vector
